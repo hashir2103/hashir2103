@@ -30,7 +30,7 @@ With hands-on experience in **RAG chatbots**, **ETL pipelines**, **fraud detecti
 
 ### 🌐 Connect With Me
 📫 **Email:** [hashirtahir2103@gmail.com](mailto:hashirtahir2103@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/hashirbintahir](https://linkedin.com/in/hashirbintahir)  
+💼 **LinkedIn:** [linkedin.com/in/hashirbintahir](https://www.linkedin.com/in/hashir-siddiqui-b07aa912a/)  
 💻 **GitHub:** [github.com/hashir2103](https://github.com/hashir2103)
 
 ---
